@@ -12,7 +12,7 @@ Built and validated full-stack applications involving APIs, authentication, and 
 
 ### Connect with me
 
-[![LinkedIn](www.linkedin.com/in/samridh-shaurya-singh-139063336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/samridh-shaurya-singh-139063336)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/samridh_4606)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samridh7781@gmail.com)
 
